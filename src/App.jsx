@@ -1,5 +1,5 @@
-import NavBar from "./components/navbar.jsx";
-import Hero from "./components/hero.jsx";
+import NavBar from "./components/NavBar.jsx";
+import Hero from "./components/Hero.jsx";
 import About from "./components/About.jsx";
 import OurServices from "./components/OurServices.jsx";
 import Footer from "./components/Footer";
