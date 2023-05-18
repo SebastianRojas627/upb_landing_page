@@ -1,6 +1,6 @@
 import SectionLinks from "./SectionLinks";
 import logo from "../images/logo.svg";
-import logoUPB from "../images/logoUPB.png";
+import logoUPB from "../images/logoupb.png";
 import { SocialLinks } from "./SocialLinks";
 import { socialLinks } from "../data/data";
 
